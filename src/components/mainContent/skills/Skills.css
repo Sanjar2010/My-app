@@ -1,0 +1,68 @@
+.container{
+    padding: 50px 0px;
+ }
+ 
+ .skill-box{
+     display: flex;
+     flex-direction: column;
+     row-gap: 83px;
+     align-items: center;
+     justify-content: center;
+ }
+ 
+ .skill-case{
+     display: flex;
+     flex-direction: column;
+     row-gap: 69px;
+     align-items: center;
+     justify-content: center;
+ }
+ .skill-rows{
+     display: flex;
+     flex-direction: row;
+     column-gap: 167.99px;
+     align-items: center;
+     justify-content: center;
+ }
+ .skill-row{
+     display: flex;
+     flex-direction: column;
+     row-gap: 30px;
+     align-items: center;
+     justify-content: center;
+ }
+ 
+ .skill-title{
+     font-family: 'Gilroy-Bold';
+     font-size: 34px;
+     line-height: 42px;
+     text-align: center;
+     
+     /* Black */
+     
+     color: #070707;
+     
+ }
+ 
+ .skill-subtitle{
+     font-family: 'Gilroy-Medium';
+     font-size: 18px;
+     line-height: 22px;
+     text-align: center;
+     
+     /* Black */
+     
+     color: #070707;
+     
+ }
+ 
+ .skill-info{
+ width: 80px;
+ font-family: 'Gilroy-Bold';
+ font-size: 14px;
+ line-height: 17px;
+ text-align: center;
+ 
+ color: #828282;
+ 
+ }
